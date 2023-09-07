@@ -1,0 +1,11 @@
+.carousel_btns {
+  position: absolute;
+  z-index: 100;
+  top: 50%;
+  left: 42%;
+}
+.carousel_btn {
+  background-color: transparent;
+  color: rgb(34, 124, 226);
+  outline: rgb(34, 124, 226);
+}

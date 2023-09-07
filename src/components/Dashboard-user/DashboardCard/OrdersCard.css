@@ -1,0 +1,46 @@
+.whole_card {
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.left_card_orders {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.order_icon {
+  color: rgb(131, 0, 0) !important;
+}
+.number_order {
+  font-size: 40px !important;
+  color: rgb(131, 0, 0);
+}
+.order_type {
+  font-size: small;
+  color: rgb(104, 104, 104);
+}
+
+.left_card_graph {
+  margin-top: 20px;
+}
+.flex_row_container {
+  display: flex;
+  flex-direction: row;
+}
+.flex_row_container_col {
+  display: flex;
+  flex-direction: column;
+}
+.bco {
+  margin-left: 1rem;
+}
+/* cards */
+.card_padding {
+  border-radius: 20px !important;
+}
+.MuiPaper-root {
+  box-shadow: 0 4px 8px 0 rgba(95, 95, 95, 0.2),
+    0 6px 20px 0 rgba(187, 186, 186, 0.19) !important;
+}

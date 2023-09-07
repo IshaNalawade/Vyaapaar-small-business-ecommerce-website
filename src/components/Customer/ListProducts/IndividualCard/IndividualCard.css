@@ -1,0 +1,21 @@
+.individualcard__header {
+  border-radius: 20px 20px 0px 0px;
+  position: relative;
+  bottom: 0rem;
+  text-align: center;
+
+  padding: 1rem;
+  background-color: white;
+  display: inline-block;
+}
+
+.individualcard__card {
+  border-radius: 0px 0px 20px 20px;
+  background-color: white;
+}
+.label {
+  padding: 1rem;
+  background-color: rgb(131, 0, 0);
+  color: white;
+  border-radius: 0px 20px 20px 0px;
+}

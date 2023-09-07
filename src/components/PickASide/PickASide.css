@@ -1,0 +1,36 @@
+.option {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.side__option {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(85, 85, 85, 0.8);
+  border-radius: 12px;
+  color: #fff !important;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000 ;
+}
+h1 {
+  color: #000 !important;
+}
+.about {
+  text-align: center;
+  text-shadow: 3px 3px 0 rgb(131, 0, 0), 4px 4px 0 #1a1a1a;
+  color: black;
+  font-size: 5rem;
+  line-height: 5rem;
+}
